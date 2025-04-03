@@ -1,0 +1,2 @@
+cp origem destino
+mv origem destino
